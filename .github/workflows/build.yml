@@ -1,4 +1,4 @@
-name: KT-84975 hanging diagnostics
+name: KT-84975 hanging diagnostics 1
 
 on:
   workflow_dispatch:
